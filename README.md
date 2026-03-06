@@ -1,5 +1,15 @@
 # Plastic CUP – Injection Molding Optimization
 
+## Project Status
+
+Ongoing project focused on improving recycled plastic injection molding through mold design optimization and parameter tuning.
+
+### 3D Printed Mold
+![3D Printed Mold](images/imagesmold_1.jpg.jpg)
+
+### Injection Molding System
+![Injection Molding Machine](images/injection_machine2.jpg)
+
 ## Overview
 This project focuses on improving a recycled plastic injection molding system used by the **Plastic CUP** recycling initiative.
 
@@ -34,8 +44,3 @@ This work is part of a collaboration with **Plastic CUP**, a recycling initiativ
 - Improved mold durability
   ## Project Images
 
-### 3D Printed Mold
-![3D Printed Mold](images/imagesmold_1.jpg.jpg)
-
-### Injection Molding System
-![Injection Molding Machine](images/injection_machine.jpg)

@@ -32,3 +32,10 @@ This work is part of a collaboration with **Plastic CUP**, a recycling initiativ
 - Cycle time reduction
 - Material flow analysis
 - Improved mold durability
+  ## Project Images
+
+### 3D Printed Mold
+![3D Printed Mold](images/imagesmold_1.jpg)
+
+### Injection Molding System
+![Injection Molding Machine](images/injection_machine.jpg)

@@ -35,7 +35,7 @@ This work is part of a collaboration with **Plastic CUP**, a recycling initiativ
   ## Project Images
 
 ### 3D Printed Mold
-![3D Printed Mold](images/imagesmold_1.jpg)
+![3D Printed Mold](images/imagesmold_1.jpg.jpg)
 
 ### Injection Molding System
 ![Injection Molding Machine](images/injection_machine.jpg)

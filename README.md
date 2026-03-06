@@ -42,5 +42,5 @@ This work is part of a collaboration with **Plastic CUP**, a recycling initiativ
 - Cycle time reduction
 - Material flow analysis
 - Improved mold durability
-  ## Project Images
+ 
 
